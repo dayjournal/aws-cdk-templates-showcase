@@ -3,7 +3,7 @@
 Showcase of AWS CDK templates.
 
 - [Unique Domain Hosting](https://github.com/dayjournal/aws-cdk-templates-showcase/tree/main/unique-domain-hosting)  
-- [location-service](https://github.com/dayjournal/aws-cdk-templates-showcase/tree/main/location-service)  
+- [Location Service](https://github.com/dayjournal/aws-cdk-templates-showcase/tree/main/location-service)  
 
 <br>
 
