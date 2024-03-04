@@ -18,6 +18,32 @@ Copy the set of application files you wish to deploy to the "dist" directory.
 
 <br>
 
+## Usage
+
+Execution environment
+
+- node v16.10.0
+- npm v7.24.0
+- aws-cdk v2.15.0
+
+<br>
+
+Install package
+
+```bash
+npm install
+```
+
+<br>
+
+deploy
+
+```bash
+cdk deploy
+```
+
+<br>
+
 ## License
 
 MIT
@@ -52,6 +78,32 @@ Copyright (c) 2022 Yasunori Kirimoto
 
 <br>
 
+## 使用方法
+
+実行環境
+
+- node v16.10.0
+- npm v7.24.0
+- aws-cdk v2.15.0
+
+<br>
+
+パッケージインストール
+
+```bash
+npm install
+```
+
+<br>
+
+デプロイ
+
+```bash
+cdk deploy
+```
+
+<br>
+
 ## License
 
 MIT
@@ -59,8 +111,3 @@ MIT
 Copyright (c) 2022 Yasunori Kirimoto
 
 <br>
-
-
-
-
-
